@@ -1,0 +1,2 @@
+# pydmmo
+Dynamic Multimodal Optimization.
