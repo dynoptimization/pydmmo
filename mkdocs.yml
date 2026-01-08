@@ -7,8 +7,8 @@ site_description: >-
   A comprehensive library for solving dynamic multi-modal optimization problems.
 
 # Repository
-repo_name: dynoptimization/pydsoo
-repo_url: https://github.com/dynoptimization/pydsoo
+repo_name: dynoptimization/pydmmo
+repo_url: https://github.com/dynoptimization/pydmmo
 
 # Copyright
 copyright: >-
